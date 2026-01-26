@@ -12,4 +12,13 @@
 
 -- write your sql code here
 
-SELECT * from countries;
+-- SELECT * FROM countries;
+
+-- SELECT Country, Population FROM countries;
+
+-- SELECT Country FROM countries WHERE Continent='Europe';
+
+-- SELECT Country FROM Countries WHERE Population > 100000000
+
+-- SELECT Country FROM Countries WHERE Continent='Asia' AND GDPPerCapita > 20000
+
